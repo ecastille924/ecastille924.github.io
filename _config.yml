@@ -1,11 +1,11 @@
 # Site settings
 author: Erick Castille
-title: 
+title: New World Navigator
 header-img: img/home-bg.png
 email: ecastille924@gmail.com
 copyright_name: Erick Castille
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My Journey Through the New Normal 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ecastille924
